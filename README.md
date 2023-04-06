@@ -1,0 +1,3 @@
+# Tic-Tac-Toe 
+
+Tic Tac Toe is a simple two-player game built using HTML, CSS, and JavaScript. The game is played on a 3x3 grid, with players taking turns to place their symbol ('X' or 'O') on the board. The game ends when either one of the players gets three of their symbols in a row, column, or diagonal, or when all the squares on the board are filled without either player winning. The game logic is implemented using JavaScript, with the board and game state being manipulated through DOM manipulation. The game also features a refresh button that allows the players to start a new game at any time.
